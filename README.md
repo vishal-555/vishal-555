@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Vishal
 - 👀 I’m interested in data analytics
-- 🌱 I’m currently learning dbt
+- 🌱 I’m currently learning data engineering
 - 📫 You can reach me vishalwaghmode007@gmail.com or https://www.linkedin.com/in/vishalwaghmode/
