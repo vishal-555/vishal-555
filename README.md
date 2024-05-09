@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Vishal
+- 👋 Hi, I’m Vishal Waghmode
 - 👀 I’m interested in all things related to data
 - 🌱 I’m currently running a analytics and data engineering agency.
-- 📫 You can reach me vishalwaghmode007@gmail.com or https://www.linkedin.com/in/vishalwaghmode/
+- 📫 You can reach me vishal@wtdanalytics.com or https://www.linkedin.com/in/vishalwaghmode/
