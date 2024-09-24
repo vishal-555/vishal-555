@@ -1,2 +1,2 @@
 import sys
-print("hello simultation")
+print("hello simultation or world")
